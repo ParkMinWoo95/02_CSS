@@ -1,0 +1,23 @@
+/* 클래스 변경 속성 */
+
+.area1{background-color: red;}
+.area2{background-color: yellow;}
+.area3{background-color: blue;}
+.area4{background-color: green;}
+.area5{background-color: orange;}
+
+.box{
+  width: 150px;
+  height: 150px;
+  color: white;
+  border: 1px solid black;
+}
+
+/* display 변경 속성 */
+.block{display: block;}
+.inline{display: inline;}
+.inline-block{display: inline-block;}
+.none{display: none;}
+
+/* visibility (눈에 보이는 상태) -> 투명하게 변함 */
+.hidden{visibility: hidden;}
